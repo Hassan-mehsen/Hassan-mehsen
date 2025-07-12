@@ -37,8 +37,9 @@
   <li>💼 Looking for a <strong>6-month internship starting January 2026</strong> in <strong>Data Engineering / Big Data / Cloud</strong>.</li>
   <li>🛠 I design <strong>end-to-end ETL/ELT pipelines</strong> and <strong>modern data lakehouse architectures</strong>.</li>
   <li>📊 Currently exploring <strong>Apache Kafka</strong>, <strong>AWS</strong>, and <strong>CI/CD for Data</strong> workflows.</li>
-  <li>🌱 I love learning by building — check out my last project: <a href="https://github.com/Hassan-mehsen/CryptoLakehouse" target="_blank"><strong>CryptoLakehouse Project</strong></a>.
-    <li>🔥 I'm deeply passionate about <strong>Data Engineering</strong> and constantly growing my skills to stay at the cutting edge of the field.</li>
+  <li>🌱 I love learning by building — check out my latest project: <a href="https://github.com/Hassan-mehsen/CryptoLakehouse" target="_blank"><strong>CryptoLakehouse Project</strong></a>.</li>
+  <li>🔥 I'm deeply passionate about <strong>Data Engineering</strong> and constantly growing my skills to stay at the cutting edge of the field.</li>
+
 </ul>
 
 ---
@@ -47,10 +48,23 @@
 
 <h3 align="center">💡 Highlighted Project</h3>
 
-<p align="left">
-🔗 <a href="https://github.com/Hassan-mehsen/CryptoLakehouse" target="_blank"><strong>CryptoLakehouse</strong></a> – Full ELT pipeline from API ingestion to Delta Lakehouse<br>
-🚀 Built with Spark, Airflow, Docker, PostgreSQL & Delta Lake – designed for analytics & ML extensions.
-</p>
+
+
+<ul align="left">
+  <li>
+    🔗 <a href="https://github.com/Hassan-mehsen/CryptoLakehouse" target="_blank"><strong>CryptoLakehouse</strong></a> – A complete end-to-end ELT pipeline that ingests, transforms, and serves cryptocurrency market data.<br>
+    🚀 Built with Apache Spark, Airflow, Docker, PostgreSQL, and Delta Lake, delivering a modular <strong>Lakehouse architecture</strong> optimized for analytics and machine learning workflows.<br>
+    📊 The Lakehouse's data warehouse is connected to Metabase to provide dashboards for <strong>BI teams and analysts</strong>.
+  </li>
+
+  <!-- You can append other projects here like this:
+  <li>
+    🔗 <a href="https://github.com/yourusername/OtherProject" target="_blank"><strong>OtherProject</strong></a> – Short description of the project.<br>
+    🚀 Tech stack and purpose.<br>
+    📊 Insights or impact it provides.
+  </li>
+  -->
+</ul>
 
 ---
 
