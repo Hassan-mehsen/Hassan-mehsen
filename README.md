@@ -132,9 +132,10 @@
   📈 Consistent learning and building habits – here’s a glimpse of my coding streaks!
 </p>
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=Hassan-mehsen&theme=highcontrast&short_numbers=true" alt="GitHub Streak" /></a>
-</div>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Hassan-mehsen&theme=highcontrast&hide_border=false&border_radius=5" height="220" alt="GitHub Streak" />
+</p>
+
 
 ---
 
