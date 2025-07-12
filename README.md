@@ -133,7 +133,7 @@
 </p>
 
 <div align="center">
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Hassan-mehsen&theme=highcontrast&short_numbers=true" alt="GitHub Streak" /></a>
+  <img src="https://streak-stats.demolab.com?user=Hassan-mehsen&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph" />
 </div>
 
 ---
