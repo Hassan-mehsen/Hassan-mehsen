@@ -64,6 +64,9 @@
   <img src="https://skillicons.dev/icons?i=linux" height="40" alt="linux logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=aws" height="40" alt="amazonwebservices logo"  />
+  <img width="12" />
+  <img src="https://img.icons8.com/?size=100&id=0cRqPqlItA0E&format=png&color=000000" height="40" alt="spark logo" />
+  
 </div>
 
 ###
