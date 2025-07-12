@@ -22,11 +22,19 @@
 
 ###
 
-<h3 align="left">👩‍💻  About Me</h3>
+<h3 align="left">👨‍💻 About Me</h3>
 
 ###
 
-<p align="left">👨‍💻 About Me<br><br> 🎓 I'm in my final year of Software Engineering at ENIB (France)  <br>💼 I'm looking for a 6-month internship starting February 2026 in Data Engineering / Big Data / Cloud<br>- 🛠 I design end-to-end ELT pipelines and modern data lakehouse architectures using Apache Spark, Airflow, Docker, PostgreSQL and Delta Lake.<br> 📊 Currently exploring Apache Kafka, AWS, and  CI/CD for Data workflows  <br>- 🌱 I love learning by building — check out my CryptoLakehouse Project</p>
+<p align="left">
+🎓 I'm in my final year of Software Engineering at ENIB (France).<br>
+💼 I'm looking for a 6-month internship starting <strong>February 2026</strong> in <strong>Data Engineering / Big Data / Cloud</strong>.<br>
+🛠 I design <strong>end-to-end ELT pipelines</strong> and <strong>modern data lakehouse architectures</strong> using Apache Spark, Airflow, Docker, PostgreSQL, Delta Lake, and Python.<br>
+📊 Currently exploring <strong>Apache Kafka</strong>, <strong>AWS</strong>, and <strong>CI/CD for Data</strong> workflows.<br>
+🌱 I love learning by building — check out my <a href="https://github.com/Hassan-mehsen/CryptoLakehouse" target="_blank"><strong>CryptoLakehouse Project</strong></a>.
+</p>
+
+
 
 ###
 
