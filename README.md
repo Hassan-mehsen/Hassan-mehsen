@@ -37,7 +37,7 @@
   <li>💼 Looking for a <strong>6-month internship starting January 2026</strong> in <strong>Data Engineering / Big Data / Cloud</strong>.</li>
   <li>🛠 I design <strong>end-to-end ETL/ELT pipelines</strong> and <strong>modern data lakehouse architectures</strong>.</li>
   <li>📊 Currently exploring <strong>Apache Kafka</strong>, <strong>AWS</strong>, and <strong>CI/CD for Data</strong> workflows.</li>
-  <li>🌱 I love learning by building — check out my latest project: <a href="https://github.com/Hassan-mehsen/CryptoLakehouse" target="_blank"><strong>CryptoLakehouse Project</strong></a>.</li>
+  <li>🌱 I love learning by building — check out my latest project: <a href="https://github.com/Hassan-mehsen/Crypto_Analytics_Platform" target="_blank"><strong>Crypto Analytics Platform</strong></a>.</li>
   <li>🔥 I'm deeply passionate about <strong>Data Engineering</strong> and constantly growing my skills to stay at the cutting edge of the field.</li>
 
 </ul>
@@ -52,9 +52,9 @@
 
 <ul align="left">
   <li>
-    🔗 <a href="https://github.com/Hassan-mehsen/CryptoLakehouse" target="_blank"><strong>CryptoLakehouse</strong></a> – A complete end-to-end ELT pipeline that ingests, transforms, and serves cryptocurrency market data.<br>
-    🚀 Built with Apache Spark, Airflow, Docker, PostgreSQL, and Delta Lake, delivering a modular <strong>Lakehouse architecture</strong> optimized for analytics and machine learning workflows.<br>
-    📊 The Lakehouse's data warehouse is connected to Metabase to provide dashboards for <strong>BI teams and analysts</strong>.
+    🔗 <a href="https://github.com/Hassan-mehsen/Crypto_Analytics_Platform" target="_blank"><strong>Crypto Analytics Platform</strong></a> – A complete end-to-end ELT pipeline that ingests, transforms, and serves cryptocurrency market data.<br>
+    🚀 Built with Apache Spark, Airflow, Docker, PostgreSQL, and Delta Lake, delivering a modular <strong>modular architecture</strong> optimized for analytics and machine learning workflows.<br>
+    📊 The Data warehouse is connected to Metabase to provide dashboards for <strong>BI teams and analysts</strong>.
   </li>
 
   <!-- You can append other projects here like this:
@@ -95,8 +95,8 @@
   <img width="5" />
   <img src="https://icon.icepanel.io/Technology/svg/Apache-Airflow.svg" height="45" alt="airflow logo" />
   <img width="5" />
-  <img src="https://skillicons.dev/icons?i=kafka" height="45" alt="kafka logo" />
-  <img width="5" />
+  <!-- img src="https://skillicons.dev/icons?i=kafka" height="45" alt="kafka logo" /-->
+  <!--img width="5" /-->
   <img src="https://svgmix.com/uploads/azure-patterns/94cdee-delta-lake.svg" height="45" alt="delta lake logo" />
   <img width="5" />
   <img src="https://db.cs.uni-tuebingen.de/teaching/ws2223/sql-is-a-programming-language/logo.svg" height="45" alt="sql logo" />
@@ -107,8 +107,8 @@
   <img width="5" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="45" alt="mongodb logo" />
   <img width="5" />
-  <img src="https://skillicons.dev/icons?i=aws" height="45" alt="aws logo" />
-  <img width="5" />
+  <!--img src="https://skillicons.dev/icons?i=aws" height="45" alt="aws logo" /-->
+  <!--img width="5" /-->
   <img src="https://skillicons.dev/icons?i=docker" height="45" alt="docker logo" />
   <img width="5" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="45" alt="pandas logo"  />
