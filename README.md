@@ -35,8 +35,9 @@
 <ul align="left">
   <li>🎓 I'm in my final year of Software Engineering at <strong>ENIB (France)</strong>.</li>
   <li>💼 Looking for a <strong>6-month internship starting January 2026</strong> in <strong>Data Engineering / Big Data / Cloud</strong>.</li>
-  <li>🛠 I design <strong>end-to-end ETL/ELT pipelines</strong> and <strong>modern data lakehouse architectures</strong>.</li>
-  <li>📊 Currently exploring <strong>Apache Kafka</strong>, <strong>AWS</strong>, and <strong>CI/CD for Data</strong> workflows.</li>
+  <li>🛠 I design <strong>end-to-end ETL/ELT pipelines</strong> and <strong>modern data architectures</strong>.</li>
+  <li>📊 Currently exploring <strong>dbt</strong> and <strong>CI/CD for Data</strong> workflows.</li>
+  <li>🔜 Planning to dive deeper into <strong>real-time data processing with Apache Kafka</strong> and to strengthen my expertise in <strong>cloud platforms</strong>.</li>
   <li>🌱 I love learning by building — check out my latest project: <a href="https://github.com/Hassan-mehsen/Crypto_Analytics_Platform" target="_blank"><strong>Crypto Analytics Platform</strong></a>.</li>
   <li>🔥 I'm deeply passionate about <strong>Data Engineering</strong> and constantly growing my skills to stay at the cutting edge of the field.</li>
 
