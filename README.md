@@ -50,15 +50,17 @@
 
 <ul align="left">
   <li>
-    🔗 <a href="https://github.com/Hassan-mehsen/Crypto_Analytics_Platform" target="_blank"><strong>Crypto Analytics Platform</strong></a> – A complete end-to-end ELT pipeline that ingests, transforms, and serves cryptocurrency market data.<br>
-    🚀 Built with Apache Spark, Airflow, Docker, PostgreSQL, and Delta Lake, delivering a modular <strong>modular architecture</strong> optimized for analytics and machine learning workflows.<br>
-    📊 The Data warehouse is connected to Metabase to provide dashboards for <strong>BI teams and analysts</strong>.
-  </li>
-
-  <li>
     🔗 <a href="https://github.com/Hassan-mehsen/financial-data-warehouse" target="_blank"><strong>Financial Data Warehouse</strong></a> – An end-to-end ELT pipeline that ingests financial market data into a PostgreSQL warehouse.<br>
     🚀 Built with Python, Apache Airflow, dbt, and Docker, with incremental fact models, data quality tests, and documented lineage.<br>
     📊 Provides analytics-ready fact and dimension tables for exploration in Metabase.
+  </li>
+
+  <br>
+  
+  <li>
+    🔗 <a href="https://github.com/Hassan-mehsen/Crypto_Analytics_Platform" target="_blank"><strong>Crypto Analytics Platform</strong></a> – A complete end-to-end ELT pipeline that ingests, transforms, and serves cryptocurrency market data.<br>
+    🚀 Built with Apache Spark, Airflow, Docker, PostgreSQL, and Delta Lake, delivering a modular <strong>modular architecture</strong> optimized for analytics and machine learning workflows.<br>
+    📊 The Data warehouse is connected to Metabase to provide dashboards for <strong>BI teams and analysts</strong>.
   </li>
 
 </ul>
