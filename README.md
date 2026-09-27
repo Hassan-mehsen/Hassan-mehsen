@@ -50,9 +50,9 @@
 
 <ul align="left">
   <li>
-    🔗 <a href="https://github.com/Hassan-mehsen/financial-data-warehouse" target="_blank"><strong>Financial Data Warehouse</strong></a> – An end-to-end ELT pipeline that ingests financial market data into a PostgreSQL warehouse.<br>
-    🚀 Built with Python, Apache Airflow, dbt, and Docker, with incremental fact models, data quality tests, and documented lineage.<br>
-    📊 Provides analytics-ready fact and dimension tables for exploration in Metabase.
+    🔗 <a href="https://github.com/Hassan-mehsen/financial-data-warehouse" target="_blank"><strong>Financial Data Warehouse</strong></a> – Ingests financial market data and transforms it with dbt in a PostgreSQL warehouse following a medallion architecture (raw, staging, marts).<br>
+    🚀 Apache Airflow orchestrates the ELT pipeline, while dbt builds and tests models across the warehouse layers.<br>
+    📊 Exposes curated data through a star schema of fact and dimension tables for analysis in Metabase.
   </li>
 
   <br>
