@@ -89,9 +89,14 @@
 ---
 
 
+
 <h3 align="center">🛠 Languages & Tools</h3>
 
 <div align="center">
+
+  <!-- Cloud -->
+  <img src="https://skillicons.dev/icons?i=aws" height="45" alt="aws logo" />
+  <img width="5" />
 
   <!-- Languages -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="45" alt="python logo" />
@@ -108,20 +113,17 @@
   <img width="5" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dbt/dbt-original.svg" height="45" alt="dbt logo" />
   <img width="5" />
-  <img src="https://svgmix.com/uploads/azure-patterns/94cdee-delta-lake.svg" height="45" alt="delta lake logo" />
-  <img width="5" />
 
   <!-- Databases & Data Warehouses -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/snowflake/snowflake-original.svg" height="45" alt="snowflake logo" />
+  <img width="5" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="45" alt="postgresql logo" />
   <img width="5" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="45" alt="mongodb logo" />
   <img width="5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/snowflake/snowflake-original.svg" height="45" alt="snowflake logo" />
-  <img width="5" />
+  
 
-  <!-- Cloud & DevOps -->
-  <img src="https://skillicons.dev/icons?i=aws" height="45" alt="aws logo" />
-  <img width="5" />
+  <!-- DevOps -->
   <img src="https://skillicons.dev/icons?i=docker" height="45" alt="docker logo" />
   <img width="5" />
   <img src="https://skillicons.dev/icons?i=git" height="45" alt="git logo" />
@@ -137,6 +139,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="45" alt="jupyter logo" />
 
 </div>
+
 
 
 ###
