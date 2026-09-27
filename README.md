@@ -44,7 +44,7 @@
 
 ###
 
-<h3 align="center">💡 Highlighted Project</h3>
+<h3 align="center">💡 Highlighted Projects</h3>
 
 
 
@@ -55,13 +55,12 @@
     📊 The Data warehouse is connected to Metabase to provide dashboards for <strong>BI teams and analysts</strong>.
   </li>
 
-  <!-- You can append other projects here like this:
   <li>
-    🔗 <a href="https://github.com/yourusername/OtherProject" target="_blank"><strong>OtherProject</strong></a> – Short description of the project.<br>
-    🚀 Tech stack and purpose.<br>
-    📊 Insights or impact it provides.
+    🔗 <a href="https://github.com/Hassan-mehsen/financial-data-warehouse" target="_blank"><strong>Financial Data Warehouse</strong></a> – An end-to-end ELT pipeline that ingests financial market data into a PostgreSQL warehouse.<br>
+    🚀 Built with Python, Apache Airflow, dbt, and Docker, with incremental fact models, data quality tests, and documented lineage.<br>
+    📊 Provides analytics-ready fact and dimension tables for exploration in Metabase.
   </li>
-  -->
+
 </ul>
 
 ---
