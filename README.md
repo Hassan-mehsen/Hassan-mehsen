@@ -111,11 +111,11 @@
   <img width="5" />
   <img src="https://icon.icepanel.io/Technology/svg/Apache-Airflow.svg" height="45" alt="airflow logo" />
   <img width="5" />
-  <img src="https://www.decideom.fr/solution/dbt/" height="45" alt="dbt logo" />
+  <img src="https://cdn.simpleicons.org/dbt/FF694B" height="45" alt="dbt logo" />
   <img width="5" />
 
   <!-- Databases & Data Warehouses -->
-  <img src="https://companieslogo.com/fr/snowflake/logo/" height="45" alt="snowflake logo" />
+  <img src="https://cdn.simpleicons.org/snowflake/29B5E8" height="45" alt="snowflake logo" />
   <img width="5" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="45" alt="postgresql logo" />
   <img width="5" />
