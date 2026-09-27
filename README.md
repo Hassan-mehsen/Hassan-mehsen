@@ -111,7 +111,7 @@
   <img width="5" />
   <img src="https://icon.icepanel.io/Technology/svg/Apache-Airflow.svg" height="45" alt="airflow logo" />
   <img width="5" />
-  <img src="https://cdn.simpleicons.org/dbt/FF694B" height="45" alt="dbt logo" />
+  <img src="https://cdn.jsdelivr.net/gh/callback-io/allogo@main/public/logos/dbt/icon.svg" height="45" alt="dbt logo" />
   <img width="5" />
 
   <!-- Databases & Data Warehouses -->
