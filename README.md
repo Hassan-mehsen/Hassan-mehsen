@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi there 👋, I'm Hassan</h1>
-<h3 align="center">💡 Future Data Engineer in the Making</h3>
+<h3 align="center">💡 Junior Data Engineer | AWS Certified Solutions Architect – Associate</h3>
 
 
 ###
@@ -30,14 +30,19 @@
 <h3 align="center">👨‍💻 About Me</h3>
 
 <ul align="left">
-  <li>🎓 I'm in my final year of Software Engineering at <strong>ENIB (France)</strong>.</li>
-  <li>💼 Looking for a <strong>6-month internship starting January 2026</strong> in <strong>Data Engineering / Big Data / Cloud</strong>.</li>
-  <li>🛠 I design <strong>end-to-end ETL/ELT pipelines</strong> and <strong>modern data architectures</strong>.</li>
-  <li>📊 Currently exploring <strong>dbt</strong> and <strong>CI/CD for Data</strong> workflows.</li>
-  <li>🔜 Planning to dive deeper into <strong>real-time data processing with Apache Kafka</strong> and to strengthen my expertise in <strong>cloud platforms</strong>.</li>
-  <li>🌱 I love learning by building — check out my latest project: <a href="https://github.com/Hassan-mehsen/Crypto_Analytics_Platform" target="_blank"><strong>Crypto Analytics Platform</strong></a>.</li>
-  <li>🔥 I'm deeply passionate about <strong>Data Engineering</strong> and constantly growing my skills to stay at the cutting edge of the field.</li>
+  <li>💼 Junior <strong>Data Engineer</strong> with a Software Engineering background from <strong>ENIB (France)</strong>.</li>
 
+  <li>☁️ <strong>AWS Certified Solutions Architect – Associate</strong>.</li>
+
+  <li>🛠 I design and build <strong>end-to-end ETL/ELT pipelines</strong>, data warehouses, and scalable cloud-based data architectures.</li>
+
+  <li>⚙️ Experienced with <strong>Python, SQL, Apache Airflow, dbt, AWS, Snowflake, and CI/CD</strong> for data workflows.</li>
+
+  <li>📚 Currently expanding my knowledge of <strong>Apache Kafka, Java, and real-time data processing</strong>.</li>
+
+  <li>🌱 I love learning by building — check out my latest project: <a href="https://github.com/Hassan-mehsen/financial-data-warehouse" target="_blank"><strong>Financial Data Warehouse</strong></a>.</li>
+
+  <li>🔥 Passionate about <strong>Data Engineering</strong>, automation, and building reliable, maintainable data platforms.</li>
 </ul>
 
 ---
@@ -59,7 +64,7 @@
   
   <li>
     🔗 <a href="https://github.com/Hassan-mehsen/Crypto_Analytics_Platform" target="_blank"><strong>Crypto Analytics Platform</strong></a> – A complete end-to-end ELT pipeline that ingests, transforms, and serves cryptocurrency market data.<br>
-    🚀 Built with Apache Spark, Airflow, Docker, PostgreSQL, and Delta Lake, delivering a modular <strong>modular architecture</strong> optimized for analytics and machine learning workflows.<br>
+    🚀 Built with Apache Spark, Airflow, Docker, PostgreSQL, and Delta Lake, delivering a <strong>modular architecture</strong> optimized for analytics and machine learning workflows.<br>
     📊 The Data warehouse is connected to Metabase to provide dashboards for <strong>BI teams and analysts</strong>.
   </li>
 
