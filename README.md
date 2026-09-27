@@ -30,15 +30,15 @@
 <h3 align="center">👨‍💻 About Me</h3>
 
 <ul align="left">
-  <li>💼 Junior <strong>Data Engineer</strong> with a Software Engineering background from <strong>ENIB (France)</strong>.</li>
+  <li>💼 Junior <strong>Data Engineer</strong> with a Software Engineering background and hands-on experience building cloud-based data solutions.</li>
 
   <li>☁️ <strong>AWS Certified Solutions Architect – Associate</strong>.</li>
 
   <li>🛠 I design and build <strong>end-to-end ETL/ELT pipelines</strong>, data warehouses, and scalable cloud-based data architectures.</li>
 
-  <li>⚙️ Experienced with <strong>Python, SQL, Apache Airflow, dbt, AWS, Snowflake, and CI/CD</strong> for data workflows.</li>
+  <li>⚙️ Experienced with <strong>Python, SQL, Apache Spark, Apache Airflow, dbt, Snowflake, AWS, and CI/CD</strong> for data workflows.</li>
 
-  <li>📚 Currently expanding my knowledge of <strong>Apache Kafka, Java, and real-time data processing</strong>.</li>
+  <li>📚 Currently expanding my knowledge of <strong>Apache Kafka, real-time data processing, Java, and Scala</strong> to build scalable Big Data solutions.</li>
 
   <li>🌱 I love learning by building — check out my latest project: <a href="https://github.com/Hassan-mehsen/financial-data-warehouse" target="_blank"><strong>Financial Data Warehouse</strong></a>.</li>
 
@@ -88,43 +88,56 @@
 
 ---
 
+
 <h3 align="center">🛠 Languages & Tools</h3>
 
 <div align="center">
+
+  <!-- Languages -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="45" alt="python logo" />
   <img width="5" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="45" alt="java logo" />
   <img width="5" />
+  <img src="https://db.cs.uni-tuebingen.de/teaching/ws2223/sql-is-a-programming-language/logo.svg" height="45" alt="sql logo" />
+  <img width="5" />
+
+  <!-- Data Engineering -->
   <img src="https://img.icons8.com/?size=100&id=0cRqPqlItA0E&format=png&color=000000" height="45" alt="spark logo" />
   <img width="5" />
   <img src="https://icon.icepanel.io/Technology/svg/Apache-Airflow.svg" height="45" alt="airflow logo" />
   <img width="5" />
-  <!-- img src="https://skillicons.dev/icons?i=kafka" height="45" alt="kafka logo" /-->
-  <!--img width="5" /-->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dbt/dbt-original.svg" height="45" alt="dbt logo" />
+  <img width="5" />
   <img src="https://svgmix.com/uploads/azure-patterns/94cdee-delta-lake.svg" height="45" alt="delta lake logo" />
   <img width="5" />
-  <img src="https://db.cs.uni-tuebingen.de/teaching/ws2223/sql-is-a-programming-language/logo.svg" height="45" alt="sql logo" />
-  <img width="5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlalchemy/sqlalchemy-original.svg" height="45" alt="sqlalchemy logo" />
-  <img width="5" />
+
+  <!-- Databases & Data Warehouses -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="45" alt="postgresql logo" />
   <img width="5" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="45" alt="mongodb logo" />
   <img width="5" />
-  <!--img src="https://skillicons.dev/icons?i=aws" height="45" alt="aws logo" /-->
-  <!--img width="5" /-->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/snowflake/snowflake-original.svg" height="45" alt="snowflake logo" />
+  <img width="5" />
+
+  <!-- Cloud & DevOps -->
+  <img src="https://skillicons.dev/icons?i=aws" height="45" alt="aws logo" />
+  <img width="5" />
   <img src="https://skillicons.dev/icons?i=docker" height="45" alt="docker logo" />
-  <img width="5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="45" alt="pandas logo"  />
-  <img width="5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="45" alt="jupyter logo" />
   <img width="5" />
   <img src="https://skillicons.dev/icons?i=git" height="45" alt="git logo" />
   <img width="5" />
   <img src="https://skillicons.dev/icons?i=bash" height="45" alt="bash logo" />
   <img width="5" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="45" alt="linux logo" />
+  <img width="5" />
+
+  <!-- Python Ecosystem -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="45" alt="pandas logo" />
+  <img width="5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="45" alt="jupyter logo" />
+
 </div>
+
 
 ###
 
